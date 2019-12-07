@@ -1,5 +1,4 @@
-# cryptotrader-starterbot-javascript
+# cryptotrader-bot-javascript
 
-Javascript starterbot for the Crypto Trader game on Riddles.io
+Javascript bot for the Crypto Trader game on Riddles.io
 
-Github repo: https://github.com/riddlesio/cryptotrader-starterbot-javascript
